@@ -1,4 +1,7 @@
-/** Add your relevant code here for the issue to reproduce */
+'use client'
+
 export default function Home() {
+  console.log('rendered')
+
   return null
 }
